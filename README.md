@@ -80,3 +80,4 @@ endmodule
 
 
 ### Result:
+TO design a half adder and full adder cricuit and verify its truth table in Quartus using verilog progamming
