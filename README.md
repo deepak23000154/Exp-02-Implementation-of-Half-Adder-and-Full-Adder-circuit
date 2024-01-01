@@ -1,7 +1,6 @@
+# Exp 03 Implementation of Half Adder and Full Adder circuit
 # NAME: DEEPAK
 # REFERENCE NO: 23000154
-# Exp 03 Implementation of Half Adder and Full Adder circuit
-# Implementation of HalfAdder and FullAdder circuit
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
